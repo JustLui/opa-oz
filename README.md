@@ -2,7 +2,7 @@
 
 ## I'm a Team Leader, Developer, and Mentor!
 - 🔭 I’m currently working at [Yandex][yandex]
-- 🥅 2020 Goals: Survive, Make a couple of fully-functional Alice dialogs
+- 🥅 2021 Goals: Make/contribute a couple of open-source projects
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
 ### Connect with me:
