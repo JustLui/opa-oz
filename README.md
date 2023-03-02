@@ -1,8 +1,8 @@
 ### Hi there, I'm Vladimir Levin - aka opa_oz 👋
 
 ## I'm a Team Leader, Developer, and Mentor!
-- 🔭 I’m currently working at [Yandex][yandex]
-- 🥅 2022 Goals: Make/contribute a couple of open-source projects
+- 🔭 I’m currently working at [Woven By Toyota][https://woven-planet.global/en]
+- 🥅 2023 Goals: Damn, I successfully moved to Japan! That's enough goals for this year!
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
 ### Connect with me:
