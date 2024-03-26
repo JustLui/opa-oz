@@ -1,9 +1,7 @@
-### Hi there, I'm Vladimir Levin - aka opa_oz 👋
+### Hi there, I'm Alexandr Maroz 👋
 
 ## I'm a Team Leader, Developer, and Mentor!
-- 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
-- 🥅 2024 Goals: TBD
-- ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
+- 🔭 I'm actively looking for a job
 
 ### Connect with me:
 [<img align="left" alt="opa_oz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
